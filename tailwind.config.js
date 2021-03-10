@@ -1,0 +1,18 @@
+module.exports = {
+  purge: [],
+  darkMode: false, // or 'media' or 'class'
+  theme: {
+    extend: {
+      colors: {
+        primary: '#03072a'
+      },
+      fontFamily:{
+        PoiretOne: ['Poiret One']
+      }
+    },
+  },
+  variants: {
+    extend: {},
+  },
+  plugins: [],
+}
