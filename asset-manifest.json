@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dhri-yama/lighthouse/static/css/main.e830e69b.chunk.css",
+    "main.js": "/dhri-yama/lighthouse/static/js/main.85df13cf.chunk.js",
+    "main.js.map": "/dhri-yama/lighthouse/static/js/main.85df13cf.chunk.js.map",
+    "runtime-main.js": "/dhri-yama/lighthouse/static/js/runtime-main.19d76737.js",
+    "runtime-main.js.map": "/dhri-yama/lighthouse/static/js/runtime-main.19d76737.js.map",
+    "static/js/2.2d77f59e.chunk.js": "/dhri-yama/lighthouse/static/js/2.2d77f59e.chunk.js",
+    "static/js/2.2d77f59e.chunk.js.map": "/dhri-yama/lighthouse/static/js/2.2d77f59e.chunk.js.map",
+    "index.html": "/dhri-yama/lighthouse/index.html",
+    "static/css/main.e830e69b.chunk.css.map": "/dhri-yama/lighthouse/static/css/main.e830e69b.chunk.css.map",
+    "static/js/2.2d77f59e.chunk.js.LICENSE.txt": "/dhri-yama/lighthouse/static/js/2.2d77f59e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19d76737.js",
+    "static/js/2.2d77f59e.chunk.js",
+    "static/css/main.e830e69b.chunk.css",
+    "static/js/main.85df13cf.chunk.js"
+  ]
+}
