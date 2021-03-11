@@ -40,7 +40,7 @@ function App() {
           <Header/>
           <Navbar/>
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/dhri-yama/lighthouse">
               <Home/>
             </Route>
             <Route path="/uigraphics">
