@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/lighthouse/static/css/main.3bd8c33f.chunk.css",
-    "main.js": "/lighthouse/static/js/main.963fb6f2.chunk.js",
-    "main.js.map": "/lighthouse/static/js/main.963fb6f2.chunk.js.map",
+    "main.css": "/lighthouse/static/css/main.ec2664fc.chunk.css",
+    "main.js": "/lighthouse/static/js/main.1cef1628.chunk.js",
+    "main.js.map": "/lighthouse/static/js/main.1cef1628.chunk.js.map",
     "runtime-main.js": "/lighthouse/static/js/runtime-main.d73b9032.js",
     "runtime-main.js.map": "/lighthouse/static/js/runtime-main.d73b9032.js.map",
     "static/js/2.4a339291.chunk.js": "/lighthouse/static/js/2.4a339291.chunk.js",
     "static/js/2.4a339291.chunk.js.map": "/lighthouse/static/js/2.4a339291.chunk.js.map",
     "index.html": "/lighthouse/index.html",
-    "static/css/main.3bd8c33f.chunk.css.map": "/lighthouse/static/css/main.3bd8c33f.chunk.css.map",
+    "static/css/main.ec2664fc.chunk.css.map": "/lighthouse/static/css/main.ec2664fc.chunk.css.map",
     "static/js/2.4a339291.chunk.js.LICENSE.txt": "/lighthouse/static/js/2.4a339291.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d73b9032.js",
     "static/js/2.4a339291.chunk.js",
-    "static/css/main.3bd8c33f.chunk.css",
-    "static/js/main.963fb6f2.chunk.js"
+    "static/css/main.ec2664fc.chunk.css",
+    "static/js/main.1cef1628.chunk.js"
   ]
 }
