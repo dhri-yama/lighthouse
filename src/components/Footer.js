@@ -6,7 +6,7 @@ const Footer = () => {
             <div 
             className="bg-primary h-60 mt-8 flex flex-col ">
                 
-                <a href="" className="m-auto">
+                <a href="https://github.com/dhri-yama/lighthouse" className="m-auto">
                     <img style={{clipPath:"circle()"}} className="w-16" 
                         src="//logo.clearbit.com/github.com/?size=120" alt=""/>
                 </a>

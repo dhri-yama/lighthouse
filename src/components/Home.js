@@ -11,7 +11,7 @@ const Home = () => {
                         A Curated list of design and UI resources from stock photos, illustrations, web templates, CSS Libraries, UI libraries and much more
                         </h2>
                </div>
-                <img src={process.env.PUBLIC_URL + '/assets/saly-1.svg'} alt=""
+                <img src={process.env.PUBLIC_URL + '/assets/Saly-1.svg'} alt=""
                     className="w-3/5 object-cover "/>
             
         </div>
