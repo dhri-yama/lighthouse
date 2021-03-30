@@ -12,10 +12,9 @@ const Footer = () => {
                 </a>
                 
                 <p className="text-2xl text-white text-center mb-8"
-                >Resources taken from  
-                <a className="text-white hover:text-gray-600"
+                >Resources taken from <a className="text-white hover:text-gray-600"
                     href="https://github.com/bradtraversy/design-resources-for-developers" rel="noreferrer" target="_blank">
-                         Here </a></p>
+                          Here </a></p>
                 
             </div>
             

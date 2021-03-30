@@ -2,6 +2,7 @@ import React from 'react'
 
 const Card = ({link, name, desc}) => {
     const imgsrc=`//logo.clearbit.com/${link}?size=120`;
+    console.log(imgsrc)
     
 
 
