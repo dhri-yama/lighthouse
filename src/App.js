@@ -2,7 +2,7 @@ import React from 'react';
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import { useEffect,useState } from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import Cardcontainer from "./components/Cardcontainer";
 import Footer from "./components/Footer";
 import Home from './components/Home';
